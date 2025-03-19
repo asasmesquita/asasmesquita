@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asasmesquita
 - 👀 I’m interested in web developement, C#, knowledge representation and databases.
-- 🌱 I’m currently learning Software engineering.
+- 🌱 I’m always learning.
 - 💞️ I’m looking to collaborate on small projects related to information collection and processing systems.
 - 📫 How to reach me 1e9pql1c7@mozmail.com
 
